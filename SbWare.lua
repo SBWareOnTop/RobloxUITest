@@ -3835,7 +3835,7 @@ if useStudio then
 
 	----SBWareLibrary:Notify({Title = "SBWare Interface", Content = "Welcome to SBWare. These - are the brand new notification design for SBWare, with custom sizing and SBWare calculated wait times.", Image = 4483362458})
 
-	--local Section = Tab:CreateSection("Section Example")
+	--local Section = Tab:CreateSection("Dick")
 
 	--local Button = Tab:CreateButton({
 	--	Name = "Change Theme",
